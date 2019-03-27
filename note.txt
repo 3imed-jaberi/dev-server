@@ -1,0 +1,12 @@
+                    **********************************************************
+                    *      @Project : Standard WAMP Server                   *
+                    *      @Author : Imed Jaberi                             *
+                    *      @Email : imed_jebari@hotmail.fr                   *
+                    *      @GitHub : https://github.com/3imed-jaberi         *
+                    **********************************************************
+
+  **************************************************************************************************
+  *    you need to install mysql from : https://dev.mysql.com/downloads/windows/installer/8.0.html *
+  **************************************************************************************************
+
+
