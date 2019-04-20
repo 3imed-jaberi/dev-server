@@ -13,3 +13,8 @@
 ----
 ######  - Make sure you have mysql in your computer ..  
 ###### - You can run the phpMyAdmin like the traditional project ..  
+
+#### License
+---
+[Apache 2.0](https://choosealicense.com/licenses/apache-2.0/) 
+
